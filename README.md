@@ -107,7 +107,7 @@ This project is focused on analyzing historical car insurance data to identify l
 
 ## 📝 References
 
-- [50 Common Insurance Terms](https://www.csib.org/glossary)
+- [50 Common Insurance Terms](https://www.cornerstoneinsurancebrokers.com/blog/common-insurance-terms)
 - [A/B Testing Guide](https://www.optimizely.com/optimization-glossary/ab-testing/)
 - Project dataset provided by ACIS (Feb 2014 – Aug 2015)
 
@@ -116,4 +116,4 @@ This project is focused on analyzing historical car insurance data to identify l
 ## 📬 Contact
 
 For questions or collaboration, feel free to reach out:  
-**Nahom Esayas** – nahom@example.com
+**Nahom Esayas** – nahomesayas3@gmail.com
