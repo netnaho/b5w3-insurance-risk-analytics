@@ -1,2 +1,8 @@
 .venv
-# data/
+
+# Ignore raw data files
+data/*.csv
+data/*.txt
+
+# Track .dvc files
+!data/*.dvc
